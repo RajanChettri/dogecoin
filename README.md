@@ -21,6 +21,10 @@ Dogecoin currently employs a simplified variant of scrypt.
 
 ## Installation 💻
 
+# Some Fake Changes
+# Some More Changes
+# Some Other Changes
+
 Please see [the installation guide](INSTALL.md) for information about installing
 Dogecoin Core.
 
